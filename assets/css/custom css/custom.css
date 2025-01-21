@@ -183,6 +183,9 @@ main {
 .about-image img {
     width: 100%;
 }
+.hide-1 {
+    display: none;
+}
 /* --my skil-- */
 .my-skil h1 {
     color: var(--color-103);

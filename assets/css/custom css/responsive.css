@@ -30,12 +30,37 @@
         -ms-transition: all linear 0.3s;
         -o-transition: all linear 0.3s;
     }
+    .marg-1 {
+        margin-bottom: 1.5rem !important;
+    }
+    .hide {
+        display: none !important;
+    }
+    .hide-1 {
+        display: block !important;
+    }
+    /* --contact-- */
+    .contact-us input {
+        width: 100% !important;
+    }
+    .contact-us textarea {
+        width: 100% !important;
+    }
+    .submit .click-btn {
+        width: 100% !important;
+    }
+    .take-project {
+        margin: 0 !important;
+    }
+    #home {
+        background: url(../../image/my_img/muhammad-1.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .home-intr {
+        background: inherit;
+    }
+    .info h1 {
+        color: #FBF5DD;
+    }
 }
-/* ====  ==== */
-@media (max-width: px) {}
-/* ====  ==== */
-@media (max-width: px) {}
-/* ====  ==== */
-@media (max-width: px) {}
-/* ====  ==== */
-@media (max-width: px) {}
